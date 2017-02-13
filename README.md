@@ -6,7 +6,7 @@
 
 ``` bash
 # 克隆项目
-git clone git@gitea.sailengsi.com:product/sls-vuex2-demo.git
+git clone https://gitea.sailengsi.com/product/sls-vuex2-demo.git
 
 # 安装依赖
 npm install
