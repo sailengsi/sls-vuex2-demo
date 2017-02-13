@@ -5,14 +5,15 @@
 ## Build Setup
 
 ``` bash
-# install dependencies
+# 克隆项目
+git clone git@gitea.sailengsi.com:product/sls-vuex2-demo.git
+
+# 安装依赖
 npm install
 
-# serve with hot reload at localhost:8080
+# 启动server
 npm run dev
 
-# build for production with minification
+# 编译发布
 npm run build
 ```
-
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
