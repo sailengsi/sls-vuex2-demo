@@ -2,7 +2,7 @@
 
 > 这是用vuex2实现的一个商城购物车demo,存储数据用的本地localstorage
 
-[演示地址：](https://product.sailengsi.com/sls-vuex2-demo/dist/)
+在线demo：[https://product.sailengsi.com/sls-vuex2-demo/dist/](vuex2实现的购物车demo)
 
 ## 操作步骤
 
