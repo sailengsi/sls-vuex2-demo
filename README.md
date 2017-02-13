@@ -1,4 +1,4 @@
-# vuex2-demo
+# sls-vuex2-demo
 
 > 这是用vuex2实现的一个商城购物车demo,存储数据用的本地localstorage
 
