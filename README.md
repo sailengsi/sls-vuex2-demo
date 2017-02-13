@@ -1,8 +1,8 @@
 # vuex2-demo
 
-> vue2-demo
+> 这是用vuex2实现的一个商城购物车demo,存储数据用的本地localstorage
 
-## Build Setup
+## 操作步骤
 
 ``` bash
 # 克隆项目
